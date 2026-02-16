@@ -1,0 +1,12 @@
+[00:00:00.714] Server  LOG     ✓ Ready in 449ms
+[00:00:06.708] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.886] Browser ERROR   Error fetching team members: {}
+[00:00:37.601] Browser ERROR   Error uploading image: {}
+[00:00:38.509] Browser ERROR   Error saving team member: {}
+[00:00:44.124] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:47.762] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:00:50.716] Browser WARN    Image with src "/PTLholding.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:50.717] Browser WARN    Image with src "/town.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:55.177] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/chart.jpg" "received" null
+[00:00:55.178] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/globe.jpg" "received" null
+[00:00:55.710] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/coins.jpg" "received" null
